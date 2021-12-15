@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T08:26:10.738Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="WasefjJRR3Gd-WJyGlg0" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T08:27:38.287Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="9D6PGv2IRoVpTx6MHOOH" version="15.9.6" type="github">
   <diagram id="QM3OQvAX6Ju1IrWTV0n-" name="Page-1">
     <mxGraphModel dx="936" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,13 @@
         <mxCell id="if_eRqebeQEmfXiVw2kw-1" value="路测组同事" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="if_eRqebeQEmfXiVw2kw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="if_eRqebeQEmfXiVw2kw-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="69.51689655172419" y="140.1724137931035" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="if_eRqebeQEmfXiVw2kw-2" value="开发组同事" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="30" height="60" as="geometry" />
+          <mxGeometry x="39.31" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="if_eRqebeQEmfXiVw2kw-3" value="发版负责人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="430" width="30" height="60" as="geometry" />
@@ -39,6 +44,15 @@
         </mxCell>
         <mxCell id="if_eRqebeQEmfXiVw2kw-23" value="填写提测信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="if_eRqebeQEmfXiVw2kw-25" value="删除模块卡片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="if_eRqebeQEmfXiVw2kw-26" value="修改提测信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="if_eRqebeQEmfXiVw2kw-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="680" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
