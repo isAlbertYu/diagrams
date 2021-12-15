@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T08:47:45.090Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="r8HoH6Ea13n2c22BJQeM" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T11:32:48.254Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="HlG0mJY-AAGlhjLDtgTd" version="15.9.6" type="github">
   <diagram id="QM3OQvAX6Ju1IrWTV0n-" name="Page-1">
-    <mxGraphModel dx="936" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,7 +99,7 @@
         <mxCell id="if_eRqebeQEmfXiVw2kw-58" value="&lt;span&gt;CI页面&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="114" y="432" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="if_eRqebeQEmfXiVw2kw-69" value="为master分支打tag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="if_eRqebeQEmfXiVw2kw-69" value="触发master CI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="410" y="510" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
