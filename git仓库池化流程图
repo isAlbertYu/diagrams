@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T11:55:32.247Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="tyt7Tsaob9xo7vRHb8lS" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T12:19:32.856Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="bhomZItqhyo2Cvkamoa9" version="16.1.4" type="github">
   <diagram id="gri85N3Gx5mtlk2r-SGD" name="Page-1">
     <mxGraphModel dx="1357" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             <mxPoint x="465" y="304.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7tR3e-1VahPDg8G9GYxt-3" value="加锁" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="7tR3e-1VahPDg8G9GYxt-3" value="加锁&amp;nbsp;(checkMu)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="380" y="210" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7tR3e-1VahPDg8G9GYxt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="7tR3e-1VahPDg8G9GYxt-6" edge="1">
@@ -43,7 +43,7 @@
         <mxCell id="7tR3e-1VahPDg8G9GYxt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7tR3e-1VahPDg8G9GYxt-8" target="7tR3e-1VahPDg8G9GYxt-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7tR3e-1VahPDg8G9GYxt-8" value="解锁" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="7tR3e-1VahPDg8G9GYxt-8" value="解锁&amp;nbsp;(checkMu)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="380" y="530" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7tR3e-1VahPDg8G9GYxt-15" value="是" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
@@ -54,7 +54,7 @@
             <mxPoint x="235" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7tR3e-1VahPDg8G9GYxt-17" value="解锁" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="7tR3e-1VahPDg8G9GYxt-17" value="解锁 (checkMu)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="220" y="210" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7tR3e-1VahPDg8G9GYxt-18" value="是" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
@@ -69,20 +69,20 @@
         <mxCell id="7tR3e-1VahPDg8G9GYxt-26" value="遍历完毕仍未发现空闲副本" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="710" y="220" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7tR3e-1VahPDg8G9GYxt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7tR3e-1VahPDg8G9GYxt-27" target="7tR3e-1VahPDg8G9GYxt-28" edge="1">
+        <mxCell id="ZlR3r4cA5f0RJwvXc95V-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7tR3e-1VahPDg8G9GYxt-27" target="ZlR3r4cA5f0RJwvXc95V-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7tR3e-1VahPDg8G9GYxt-27" value="从backupDir中拷贝副本到&lt;br&gt;repoDir" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="710" y="460" width="170" height="50" as="geometry" />
+          <mxGeometry x="710" y="520" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7tR3e-1VahPDg8G9GYxt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7tR3e-1VahPDg8G9GYxt-28" target="7tR3e-1VahPDg8G9GYxt-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7tR3e-1VahPDg8G9GYxt-28" value="存入该仓库的副本集合，同时设为忙碌" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="710" y="540" width="170" height="50" as="geometry" />
+          <mxGeometry x="710" y="660" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7tR3e-1VahPDg8G9GYxt-29" value="返回该副本目录名称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="710" y="615" width="170" height="50" as="geometry" />
+          <mxGeometry x="710" y="730" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7tR3e-1VahPDg8G9GYxt-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7tR3e-1VahPDg8G9GYxt-33" target="7tR3e-1VahPDg8G9GYxt-33" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -119,7 +119,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="No38T5rNf23-eqZtJg9R-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="No38T5rNf23-eqZtJg9R-6" target="7tR3e-1VahPDg8G9GYxt-27" edge="1">
+        <mxCell id="ZlR3r4cA5f0RJwvXc95V-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="No38T5rNf23-eqZtJg9R-6" target="ZlR3r4cA5f0RJwvXc95V-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="No38T5rNf23-eqZtJg9R-6" value="&lt;span&gt;指数退避重试，是否已重试5次？&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -130,6 +130,18 @@
         </mxCell>
         <mxCell id="No38T5rNf23-eqZtJg9R-12" value="是" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="770" y="422" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlR3r4cA5f0RJwvXc95V-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZlR3r4cA5f0RJwvXc95V-1" target="7tR3e-1VahPDg8G9GYxt-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlR3r4cA5f0RJwvXc95V-1" value="解锁 (backupMu)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="710" y="590" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlR3r4cA5f0RJwvXc95V-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZlR3r4cA5f0RJwvXc95V-2" target="7tR3e-1VahPDg8G9GYxt-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlR3r4cA5f0RJwvXc95V-2" value="加锁 (backupMu)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="710" y="450" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
