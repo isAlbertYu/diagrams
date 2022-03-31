@@ -1,74 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T03:52:54.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="l99NJyf2Am6Dx4lBz7bV" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T04:02:37.718Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="sVPqjvTpDF710qXXW1VJ" version="16.4.7" type="github">
   <diagram id="lQOpe4atqBSlnewlYJ-4" name="Page-1">
     <mxGraphModel dx="1042" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0XQswfeiysVT0VYPQt9F-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="30" y="270" width="540" height="120" as="geometry" />
+          <mxGeometry x="30" y="390" width="700" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="30" y="110" width="540" height="140" as="geometry" />
+          <mxGeometry x="30" y="110" width="700" height="140" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-1" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , &amp;#34;system-ui&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;JobPageGetAll&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="150" width="110" height="80" as="geometry" />
+          <mxGeometry x="125" y="150" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-2" value="JobGroup" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="90" y="290" width="60" height="80" as="geometry" />
+          <mxGeometry x="155" y="410" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-3" value="JobPage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="260" y="290" width="60" height="80" as="geometry" />
+          <mxGeometry x="297" y="410" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-4" value="JobInfo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="415" y="290" width="60" height="80" as="geometry" />
+          <mxGeometry x="425" y="410" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-5" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , &amp;#34;system-ui&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;JobInfoQuerys:&amp;lt;evalType&amp;gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="150" width="210" height="80" as="geometry" />
+          <mxGeometry x="425" y="150" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-6" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-family: , &amp;#34;system-ui&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;JobGroupGetAll&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="150" width="120" height="80" as="geometry" />
+          <mxGeometry x="275" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-10" value="缓存层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-12" value="DB层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="30" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XQswfeiysVT0VYPQt9F-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=32;" edge="1" parent="1" source="0XQswfeiysVT0VYPQt9F-13" target="0XQswfeiysVT0VYPQt9F-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-170" width="330" height="230" as="geometry" />
+          <mxGeometry x="95" y="-190" width="330" height="230" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-14" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;JobPageAdd&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-130" width="120" height="30" as="geometry" />
+          <mxGeometry x="115" y="-150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-15" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;JobPageRename&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-90" width="120" height="30" as="geometry" />
+          <mxGeometry x="115" y="-110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-16" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;JobPageReorder&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-50" width="120" height="30" as="geometry" />
+          <mxGeometry x="115" y="-70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-17" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;JobPageDelete&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-10" width="120" height="30" as="geometry" />
+          <mxGeometry x="115" y="-30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-18" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;JobGroupAdd&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-130" width="120" height="30" as="geometry" />
+          <mxGeometry x="285" y="-150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-19" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Job&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Group&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Rename&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-90" width="120" height="30" as="geometry" />
+          <mxGeometry x="285" y="-110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-20" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Job&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Group&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Reorder&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-50" width="120" height="30" as="geometry" />
+          <mxGeometry x="285" y="-70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-21" value="&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Job&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Group&lt;/span&gt;&lt;span style=&quot;color: rgb(23 , 43 , 77) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Delete&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-10" width="120" height="30" as="geometry" />
+          <mxGeometry x="285" y="-30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-22" value="写操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-170" width="60" height="30" as="geometry" />
+          <mxGeometry x="95" y="-190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-23" value="......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="120" y="20" width="60" height="30" as="geometry" />
+          <mxGeometry x="145" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0XQswfeiysVT0VYPQt9F-24" value="......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="285" y="20" width="70" height="30" as="geometry" />
+          <mxGeometry x="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0XQswfeiysVT0VYPQt9F-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=32;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0XQswfeiysVT0VYPQt9F-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=32;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0XQswfeiysVT0VYPQt9F-31" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;1.写DB&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;2.删除缓存&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
