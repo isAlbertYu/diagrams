@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T09:40:56.217Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Y8eqEroeLvjTzFUU-9Ng" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T09:44:18.339Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="YcMszD-p3Cy8bvBqIRBc" version="20.0.4" type="github">
   <diagram id="FHLWn9v2jmYGtOMs5XlZ" name="Page-1">
     <mxGraphModel dx="2278" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -298,6 +298,9 @@
         <mxCell id="dbzO5Wndn1l7Ey82gC0z-155" value="" style="shape=tape;whiteSpace=wrap;html=1;fontColor=#999999;labelBackgroundColor=none;fillColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="350" y="800" width="120" height="67.75" as="geometry" />
         </mxCell>
+        <mxCell id="dbzO5Wndn1l7Ey82gC0z-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#999999;" edge="1" parent="1" source="dbzO5Wndn1l7Ey82gC0z-156" target="dbzO5Wndn1l7Ey82gC0z-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dbzO5Wndn1l7Ey82gC0z-156" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="160" width="180" height="780" as="geometry" />
         </mxCell>
@@ -322,11 +325,11 @@
         <mxCell id="dbzO5Wndn1l7Ey82gC0z-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dbzO5Wndn1l7Ey82gC0z-168" target="dbzO5Wndn1l7Ey82gC0z-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dbzO5Wndn1l7Ey82gC0z-168" value="本地develop合入本地发版分支" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="199" width="150" height="40" as="geometry" />
+        <mxCell id="dbzO5Wndn1l7Ey82gC0z-168" value="本地发版分支合入L2Plus&lt;br&gt;、L4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="495" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dbzO5Wndn1l7Ey82gC0z-169" value="推送本地发版分支至Gerrit远程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="269" width="150" height="40" as="geometry" />
+        <mxCell id="dbzO5Wndn1l7Ey82gC0z-169" value="推送L2Plus、L4分支至Gerrit远程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="565" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
