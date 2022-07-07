@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T09:39:58.739Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="bAZK3ArTphk_oOXpKg9u" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T09:40:56.217Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Y8eqEroeLvjTzFUU-9Ng" version="20.0.4" type="github">
   <diagram id="FHLWn9v2jmYGtOMs5XlZ" name="Page-1">
-    <mxGraphModel dx="2142" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2278" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -312,6 +312,21 @@
         </mxCell>
         <mxCell id="dbzO5Wndn1l7Ey82gC0z-160" value="&lt;font color=&quot;#000000&quot;&gt;触发路测任务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="1495" y="559.5" width="150" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="dbzO5Wndn1l7Ey82gC0z-165" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="159" width="190" height="781" as="geometry" />
+        </mxCell>
+        <mxCell id="dbzO5Wndn1l7Ey82gC0z-166" value="提交合并发版分支" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="159" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dbzO5Wndn1l7Ey82gC0z-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dbzO5Wndn1l7Ey82gC0z-168" target="dbzO5Wndn1l7Ey82gC0z-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbzO5Wndn1l7Ey82gC0z-168" value="本地develop合入本地发版分支" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="199" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dbzO5Wndn1l7Ey82gC0z-169" value="推送本地发版分支至Gerrit远程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="269" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
