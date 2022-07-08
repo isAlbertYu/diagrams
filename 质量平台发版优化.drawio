@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T08:04:50.582Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="zczVW381I9YHGKJtd6ZT" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T08:05:39.384Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="UQFbyy90TleVToFqPDqx" version="20.0.4" type="github">
   <diagram id="FHLWn9v2jmYGtOMs5XlZ" name="Page-1">
-    <mxGraphModel dx="2207" dy="1876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="1359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -547,10 +547,8 @@
         <mxCell id="teDALK8CjyeKdc0oX8ih-138" value="仓库2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30.66" y="-560" width="120" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="teDALK8CjyeKdc0oX8ih-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.812;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="teDALK8CjyeKdc0oX8ih-140" target="teDALK8CjyeKdc0oX8ih-163">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="-257.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="teDALK8CjyeKdc0oX8ih-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.813;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="teDALK8CjyeKdc0oX8ih-140" target="teDALK8CjyeKdc0oX8ih-163">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="teDALK8CjyeKdc0oX8ih-140" value="仓库n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="-270" width="120" height="25" as="geometry" />
