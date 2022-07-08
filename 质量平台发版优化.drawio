@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T07:22:41.519Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Oszs1Ak5rE60wNDvBn2y" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T07:22:50.711Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="h8NZtRvgd6ZXnB8Vj3Ix" version="20.0.4" type="github">
   <diagram id="FHLWn9v2jmYGtOMs5XlZ" name="Page-1">
     <mxGraphModel dx="3564" dy="1552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -372,12 +372,6 @@
         </mxCell>
         <mxCell id="teDALK8CjyeKdc0oX8ih-24" value="评测项n（sse job x）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="1565" y="558" width="130" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="teDALK8CjyeKdc0oX8ih-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910" y="80" as="sourcePoint" />
-            <mxPoint x="1010" y="80" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="teDALK8CjyeKdc0oX8ih-26" value="获取CI package" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1425" y="519" width="110" height="30" as="geometry" />
