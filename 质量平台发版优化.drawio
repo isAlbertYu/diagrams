@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T07:17:29.736Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Ii3YEyB1-W6idooXtRgp" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T07:19:17.953Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="qsf8GCDBHy9PTuZbEBZi" version="20.0.4" type="github">
   <diagram id="FHLWn9v2jmYGtOMs5XlZ" name="Page-1">
-    <mxGraphModel dx="1981" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2030" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -350,7 +350,7 @@
           <mxGeometry x="1555" y="437.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="teDALK8CjyeKdc0oX8ih-17" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;fillColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="960" width="2080" height="230" as="geometry" />
+          <mxGeometry x="-170" y="960" width="2140" height="230" as="geometry" />
         </mxCell>
         <mxCell id="teDALK8CjyeKdc0oX8ih-18" value="评测项n（sse job n）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="790" y="315" width="130" height="25" as="geometry" />
@@ -391,53 +391,56 @@
         <mxCell id="teDALK8CjyeKdc0oX8ih-34" value="评测的指标结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="120" y="1011.25" width="130" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="teDALK8CjyeKdc0oX8ih-35" value="评测项1（sse job 01）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="teDALK8CjyeKdc0oX8ih-35" value="评测项2（sse job 02）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="-10" y="1061.25" width="130" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="teDALK8CjyeKdc0oX8ih-36" value="评测的指标结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="120" y="1061.25" width="130" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="teDALK8CjyeKdc0oX8ih-37" value="评测项1（sse job 01）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="teDALK8CjyeKdc0oX8ih-37" value="评测项n（sse job n）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="-10" y="1111.25" width="130" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="teDALK8CjyeKdc0oX8ih-38" value="评测的指标结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="120" y="1111.25" width="130" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="teDALK8CjyeKdc0oX8ih-39" value="评测项1（sse job 01）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="teDALK8CjyeKdc0oX8ih-39" value="评测项1（sse job 05）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="605" y="1011.25" width="130" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="teDALK8CjyeKdc0oX8ih-40" value="评测的指标结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="735" y="1011.25" width="130" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="teDALK8CjyeKdc0oX8ih-41" value="评测项1（sse job 01）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="teDALK8CjyeKdc0oX8ih-41" value="评测项2（sse job 06）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="605" y="1061.25" width="130" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="teDALK8CjyeKdc0oX8ih-42" value="评测的指标结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="735" y="1061.25" width="130" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="teDALK8CjyeKdc0oX8ih-43" value="评测项1（sse job 01）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="teDALK8CjyeKdc0oX8ih-43" value="评测项1（sse job 03）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="290" y="1011.25" width="130" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="teDALK8CjyeKdc0oX8ih-44" value="评测的指标结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="420" y="1011.25" width="130" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="teDALK8CjyeKdc0oX8ih-45" value="评测项1（sse job 01）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="teDALK8CjyeKdc0oX8ih-45" value="评测项2（sse job 04）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="290" y="1061.25" width="130" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="teDALK8CjyeKdc0oX8ih-46" value="评测的指标结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="420" y="1061.25" width="130" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="teDALK8CjyeKdc0oX8ih-47" value="评测项1（sse job 01）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="teDALK8CjyeKdc0oX8ih-47" value="评测项n（sse job m）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="290" y="1111.25" width="130" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="teDALK8CjyeKdc0oX8ih-48" value="评测的指标结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="420" y="1111.25" width="130" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="teDALK8CjyeKdc0oX8ih-49" value="评测项1（sse job 01）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+        <mxCell id="teDALK8CjyeKdc0oX8ih-49" value="评测项n（sse job x）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="605" y="1111.25" width="130" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="teDALK8CjyeKdc0oX8ih-50" value="评测的指标结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="735" y="1111.25" width="130" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="teDALK8CjyeKdc0oX8ih-51" value="版本管理" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="970" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
