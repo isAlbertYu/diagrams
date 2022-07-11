@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T03:52:17.294Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="aXQhMTG2kFyTqpH7NNSE" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T03:57:09.407Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="K5yFVRufzPoqa7c2fAsF" version="20.0.4" type="github">
   <diagram id="FHLWn9v2jmYGtOMs5XlZ" name="Page-1">
-    <mxGraphModel dx="4813" dy="3400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3228" dy="2480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,10 +23,10 @@
           <mxGeometry x="1000" y="13.25" width="140" height="230" as="geometry" />
         </mxCell>
         <mxCell id="dbzO5Wndn1l7Ey82gC0z-62" value="通过" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#00CC00;" parent="1" vertex="1">
-          <mxGeometry x="1165" y="98" width="50" height="30" as="geometry" />
+          <mxGeometry x="1180" y="98.63" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dbzO5Wndn1l7Ey82gC0z-99" value="不通过" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="538" width="60" height="30" as="geometry" />
+          <mxGeometry x="1170" y="539.88" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="teDALK8CjyeKdc0oX8ih-363" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.897;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="dbzO5Wndn1l7Ey82gC0z-142" target="dbzO5Wndn1l7Ey82gC0z-54">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="1000" y="709" width="140" height="230" as="geometry" />
         </mxCell>
         <mxCell id="dbzO5Wndn1l7Ey82gC0z-143" value="&lt;font color=&quot;#00cc00&quot;&gt;通过&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="1165" y="793.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="1175" y="793.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dbzO5Wndn1l7Ey82gC0z-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#999999;" parent="1" source="dbzO5Wndn1l7Ey82gC0z-156" target="dbzO5Wndn1l7Ey82gC0z-165" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -594,6 +594,21 @@
             <mxPoint x="-335" y="-412.5" as="sourcePoint" />
             <mxPoint x="-265" y="-412.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="teDALK8CjyeKdc0oX8ih-382" value="" style="image;image=img/lib/atlassian/Bamboo_Logo.svg;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=#FFCCE6;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="789.5" width="30" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="teDALK8CjyeKdc0oX8ih-385" value="" style="image;image=img/lib/atlassian/Bamboo_Logo.svg;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=#FFCCE6;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-1030" width="30" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="teDALK8CjyeKdc0oX8ih-386" value="" style="image;image=img/lib/atlassian/Bamboo_Logo.svg;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=#FFCCE6;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-1030" width="30" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="teDALK8CjyeKdc0oX8ih-387" value="" style="image;image=img/lib/atlassian/Bamboo_Logo.svg;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=#FFCCE6;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="94.63" width="30" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="teDALK8CjyeKdc0oX8ih-388" value="" style="image;image=img/lib/atlassian/Bamboo_Logo.svg;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=#FFCCE6;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="537.8800000000001" width="30" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
