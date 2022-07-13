@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T09:34:00.776Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="1dC3XIBVWCAs9hGBtpkx" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T09:40:51.631Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="RUtkSn0xx_YXdYyVBGcr" version="20.0.4" type="github">
   <diagram id="4PUk7c0A_tck_07x_NWK" name="Page-1">
     <mxGraphModel dx="1357" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
             <mxRectangle width="193" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qp7WkCNY_1RjsaDjQlsl-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-9">
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-13" value="其他信息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-9">
           <mxGeometry x="578" width="192" height="56" as="geometry">
             <mxRectangle width="192" height="56" as="alternateBounds" />
           </mxGeometry>
@@ -56,7 +56,7 @@
             <mxRectangle width="193" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qp7WkCNY_1RjsaDjQlsl-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-14">
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-16" value="@&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;Avenir Next&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi MicroHei&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;xxxx&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-14">
           <mxGeometry x="193" width="192" height="58" as="geometry">
             <mxRectangle width="192" height="58" as="alternateBounds" />
           </mxGeometry>
@@ -79,7 +79,7 @@
             <mxRectangle width="193" height="56" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qp7WkCNY_1RjsaDjQlsl-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-19">
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-21" value="@&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: &amp;quot;Avenir Next&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi MicroHei&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;xxxx&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-19">
           <mxGeometry x="193" width="192" height="56" as="geometry">
             <mxRectangle width="192" height="56" as="alternateBounds" />
           </mxGeometry>
@@ -93,6 +93,9 @@
           <mxGeometry x="578" width="192" height="56" as="geometry">
             <mxRectangle width="192" height="56" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-24" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.compose;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="830" y="510" width="29.099999999999998" height="29.099999999999998" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
