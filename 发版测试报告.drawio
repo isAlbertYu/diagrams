@@ -1,29 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T09:44:18.060Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="F9FvG7fmoHnAqrDHA3E_" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T11:05:49.921Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="qPdWvSSigbF9UCoZd_S0" version="20.0.4" type="github">
   <diagram id="4PUk7c0A_tck_07x_NWK" name="Page-1">
     <mxGraphModel dx="1357" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1000" width="1140" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="1140" height="450" as="geometry" />
+        </mxCell>
         <mxCell id="qp7WkCNY_1RjsaDjQlsl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="1140" height="1090" as="geometry" />
+          <mxGeometry x="40" y="20" width="1140" height="450" as="geometry" />
         </mxCell>
         <mxCell id="qp7WkCNY_1RjsaDjQlsl-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="150" width="890" height="270" as="geometry" />
+          <mxGeometry x="165" y="140" width="890" height="270" as="geometry" />
         </mxCell>
         <mxCell id="qp7WkCNY_1RjsaDjQlsl-3" value="&lt;h2&gt;版本信息&lt;/h2&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="150" width="100" height="60" as="geometry" />
+          <mxGeometry x="175" y="140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qp7WkCNY_1RjsaDjQlsl-4" value="&lt;p style=&quot;margin: 0px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 16px; line-height: 1.5;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;时间&lt;/strong&gt;：2022.06.09&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;strong&gt;集成发布者&lt;/strong&gt;：@刘广雄&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;预发版分支创建的基线分支：L2Plus&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;预发版分支：keep-perception-release-test-pilot&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;预发版topic：keep-perception-release-test-pilot-2022-06-09&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;发版topic：SenseAuto_Pilot_Release_2022_06_15&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;预发版测试任务链接：&lt;a style=&quot;color: rgb(0, 82, 204); text-decoration-line: none;&quot; rel=&quot;nofollow&quot; class=&quot;external-link&quot; href=&quot;http://quality.senseauto.com/perception/jobs/list/62a1c80e5283b7e7c002501e/?type=ci&quot;&gt;http://quality.senseauto.com/perception/jobs/list/62a1c80e5283b7e7c002501e/?type=ci&lt;/a&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;发版后的 tag：Pilot_V4.2&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="180" width="840" height="240" as="geometry" />
+          <mxGeometry x="190" y="170" width="840" height="240" as="geometry" />
         </mxCell>
         <mxCell id="qp7WkCNY_1RjsaDjQlsl-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="440" width="890" height="270" as="geometry" />
+          <mxGeometry x="165" y="625" width="890" height="270" as="geometry" />
         </mxCell>
         <mxCell id="qp7WkCNY_1RjsaDjQlsl-6" value="&lt;h2&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;软件信息&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="435" width="100" height="70" as="geometry" />
+          <mxGeometry x="175" y="620" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qp7WkCNY_1RjsaDjQlsl-8" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="500" width="770" height="170" as="geometry" />
+          <mxGeometry x="225" y="685" width="770" height="170" as="geometry" />
         </mxCell>
         <mxCell id="qp7WkCNY_1RjsaDjQlsl-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-8">
           <mxGeometry width="770" height="56" as="geometry" />
@@ -95,16 +101,301 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qp7WkCNY_1RjsaDjQlsl-24" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.compose;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="830" y="510" width="29.099999999999998" height="29.099999999999998" as="geometry" />
+          <mxGeometry x="935" y="695" width="29.099999999999998" height="29.099999999999998" as="geometry" />
         </mxCell>
         <mxCell id="qp7WkCNY_1RjsaDjQlsl-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="765" width="890" height="270" as="geometry" />
+          <mxGeometry x="165" y="1125" width="890" height="270" as="geometry" />
         </mxCell>
         <mxCell id="qp7WkCNY_1RjsaDjQlsl-26" value="&lt;h2&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;包信息&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="760" width="80" height="70" as="geometry" />
+          <mxGeometry x="185" y="1120" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qp7WkCNY_1RjsaDjQlsl-45" value="&lt;p style=&quot;margin: 0px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 16px; line-height: 1.5;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="800" width="210" height="240" as="geometry" />
+          <mxGeometry x="485" y="1160" width="210" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-57" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-58" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-57">
+          <mxGeometry width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-59" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;版本信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFCCCC;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-58">
+          <mxGeometry width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-60" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;软件信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-58">
+          <mxGeometry x="125" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-61" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;包信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-58">
+          <mxGeometry x="250" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-62" value="模块评测信息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-58">
+          <mxGeometry x="375" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-63" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;路测信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-58">
+          <mxGeometry x="500" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-64" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-58">
+          <mxGeometry x="625" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-65" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-58">
+          <mxGeometry x="750" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-66" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-58">
+          <mxGeometry x="875" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-71" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="530" width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-72" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-71">
+          <mxGeometry width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-73" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;版本信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-72">
+          <mxGeometry width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-74" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;软件信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFCCCC;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-72">
+          <mxGeometry x="125" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-75" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;包信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-72">
+          <mxGeometry x="250" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-76" value="模块评测信息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-72">
+          <mxGeometry x="375" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-77" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;路测信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-72">
+          <mxGeometry x="500" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-78" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-72">
+          <mxGeometry x="625" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-79" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-72">
+          <mxGeometry x="750" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-80" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-72">
+          <mxGeometry x="875" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-85" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1020" width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-86" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-85">
+          <mxGeometry width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-87" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;版本信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-86">
+          <mxGeometry width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-88" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;软件信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-86">
+          <mxGeometry x="125" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-89" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;包信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFCCCC;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-86">
+          <mxGeometry x="250" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-90" value="模块评测信息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-86">
+          <mxGeometry x="375" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-91" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;路测信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-86">
+          <mxGeometry x="500" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-92" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-86">
+          <mxGeometry x="625" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-93" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-86">
+          <mxGeometry x="750" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-94" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-86">
+          <mxGeometry x="875" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1500" width="1140" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-96" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1520" width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-97" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-96">
+          <mxGeometry width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-98" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;版本信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-97">
+          <mxGeometry width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-99" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;软件信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-97">
+          <mxGeometry x="125" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-100" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;包信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-97">
+          <mxGeometry x="250" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-101" value="模块评测信息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#FFCCCC;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-97">
+          <mxGeometry x="375" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-102" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;路测信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-97">
+          <mxGeometry x="500" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-103" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-97">
+          <mxGeometry x="625" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-104" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-97">
+          <mxGeometry x="750" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-105" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-97">
+          <mxGeometry x="875" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2340" width="1140" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-107" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="110" y="2360" width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-108" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-107">
+          <mxGeometry width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-109" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;版本信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-108">
+          <mxGeometry width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-110" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;软件信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-108">
+          <mxGeometry x="125" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-111" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;包信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-108">
+          <mxGeometry x="250" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-112" value="模块评测信息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-108">
+          <mxGeometry x="375" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-113" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;路测信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;strokeColor=#b85450;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-108">
+          <mxGeometry x="500" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-114" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-108">
+          <mxGeometry x="625" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-115" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-108">
+          <mxGeometry x="750" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-116" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-108">
+          <mxGeometry x="875" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-117" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2920" width="1140" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-118" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2940" width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-119" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-118">
+          <mxGeometry width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-120" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;版本信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-119">
+          <mxGeometry width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-121" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;软件信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-119">
+          <mxGeometry x="125" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-122" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;包信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-119">
+          <mxGeometry x="250" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-123" value="模块评测信息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-119">
+          <mxGeometry x="375" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-124" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;路测信息&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-119">
+          <mxGeometry x="500" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-125" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-119">
+          <mxGeometry x="625" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-126" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-119">
+          <mxGeometry x="750" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-127" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="qp7WkCNY_1RjsaDjQlsl-119">
+          <mxGeometry x="875" width="125" height="40" as="geometry">
+            <mxRectangle width="125" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
