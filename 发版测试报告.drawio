@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T09:40:51.631Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="RUtkSn0xx_YXdYyVBGcr" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-13T09:44:18.060Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="F9FvG7fmoHnAqrDHA3E_" version="20.0.4" type="github">
   <diagram id="4PUk7c0A_tck_07x_NWK" name="Page-1">
     <mxGraphModel dx="1357" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -96,6 +96,15 @@
         </mxCell>
         <mxCell id="qp7WkCNY_1RjsaDjQlsl-24" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.compose;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="830" y="510" width="29.099999999999998" height="29.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="765" width="890" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-26" value="&lt;h2&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 20px; letter-spacing: -0.16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;包信息&lt;/span&gt;&lt;br&gt;&lt;/h2&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="760" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qp7WkCNY_1RjsaDjQlsl-45" value="&lt;p style=&quot;margin: 0px; padding: 0px; color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 16px; line-height: 1.5;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;xxxxxxxxxxxxxxxx&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="800" width="210" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
